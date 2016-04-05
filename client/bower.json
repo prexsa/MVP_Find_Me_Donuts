@@ -1,0 +1,18 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/prexsa/MVP_Find_Me_Donuts",
+  "authors": [
+    "prexsa <prexgit@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
